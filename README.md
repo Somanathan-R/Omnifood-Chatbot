@@ -1,4 +1,4 @@
 # Omnifood-Chatbot
-A chatbot built using Amazon Lex,Kommunicate and integrated into a webpage
+A chatbot built using Amazon Lex,Kommunicate. This chatbot is integrated into a webpage
 
-Mini project for AWS Solution Architect
+Mini project for the AWS Solution Architect elective
